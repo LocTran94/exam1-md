@@ -1,0 +1,27 @@
+.BOX {
+    position: relative; top: 250px;
+    left: 250px;
+}
+
+
+
+
+.box1 {
+
+
+    width: 200px;
+    height: 30px;
+    background-color: red;
+}
+
+.box1:hover {
+ rotate:90deg;
+
+}
+
+.box2 {
+    position: absolute;
+    width: 200px;
+    height: 100px;
+    background-color: black;
+}
